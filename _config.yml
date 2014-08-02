@@ -21,12 +21,12 @@ footer-links:
   email: 
   facebook: 
   flickr: 
-  github: barryclark/jekyll-now
+  github: radicalsauce/radicalsauce.github.io
   instagram: 
-  linkedin: 
+  linkedin: krhale
   pinterest: 
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
+  twitter: radical-sauce
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
