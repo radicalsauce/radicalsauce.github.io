@@ -3,12 +3,8 @@ layout: page
 title: About
 ---
 
-Some information about you!
+I'm a former archaeologist, currently a student at <a href="http://www.hackreactor.com">Hack Reactor</a>.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Right now I'm most interested in Javascript, Node.js, .d3 and data science. I have a passing proficiency in PHP, Python and R. I also enjoy writing fiction.
